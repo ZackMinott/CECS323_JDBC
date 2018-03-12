@@ -165,23 +165,23 @@ public class CECS323_JDBC_Project {
         }
     }
     
-    public static void listGroups() {
+    public static void listGroups(Connection _con, Statement _st) {
         // TODO Set up statement & query to list all groups in DB
     }
     
-    public static void searchGroups() {
+    public static void searchGroups(Connection _con, Statement _st) {
         // TODO Set up statement & query to find data by Groups
     }
     
-    public static void listTitles() {
+    public static void listTitles(Connection _con, Statement _st) {
         // TODO Set up statement & query to list all titles in DB
     }
     
-    public static void searchTitles() {
+    public static void searchTitles(Connection _con, Statement _st) {
         // TODO Set up statement & query to find data by Titles
     }
     
-    public static void removeBook() {
+    public static void removeBook(Connection _con, Statement _st) {
         // TODO Set up statement & query to delete a book (by title).
     }
     
