@@ -1,4 +1,4 @@
-
+package cecs323_jdbc_project;
 
 import java.sql.*;
 import java.util.Scanner;
